@@ -35,7 +35,7 @@ This project serves as the backend for an online quiz platform where users can t
 - `Repository` – Data access logic
 - `Interface` – Repository interfaces
 - `Program.cs` – Application startup and configuration
-- `appsettings.json` – Application configuration (⚠️ secrets removed before deployment)
+- `appsettings.json` – Application configuration
 
 ---
 
@@ -46,12 +46,10 @@ Before running the project, update the following in `appsettings.json`:
 - **Database connection string**
 - **JWT Issuer, Audience, and Secret Key**
 
-> ⚠️ **Important:** Never commit real passwords or secret keys to GitHub.
-
 ---
 
 ## ▶️ Running the Project
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/quizweb.git
+   git clone https://github.com/hossam-adel99/quizweb.git
