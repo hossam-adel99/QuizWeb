@@ -52,4 +52,4 @@ Before running the project, update the following in `appsettings.json`:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/hossam-adel99/quizweb.git
+   git clone https://github.com/hossam-adel99/QuizWeb.git
